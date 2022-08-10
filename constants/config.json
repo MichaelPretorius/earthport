@@ -1,9 +1,1 @@
-{
-	"siteName": "My JAMBO",
-	"fontUrl": "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
-	"fontName": "Roboto",
-	"headerShowName": true,
-	"headerShowLogo": true,
-	"setStylesDone": false,
-	"actions": []
-}
+{"siteName":"My dApp","fontUrl":"https://fonts.googleapis.com/css2?family=Raleway&display=swap","fontName":"Raleway","headerShowName":true,"headerShowLogo":true,"setStylesDone":true,"actions":[{"steps":[{"name":"Get receiver address"},{"name":"Select token and amount"},{"name":"Check user balance"}],"name":"Action 1","description":"Action 1 description"},{"steps":[{"name":"Define amount"},{"name":"Send token to receiver"},{"name":"Review and sign"},{"name":"Claim"}],"name":"Action 2","description":"Action 2 description"}],"gitRepositoryOwner":"silent-sybber","gitRepositoryName":"earthport","gitRepositoryBranch":"architecture/styling","gitRepositoryUserAgent":"Earthport"}
